@@ -106,6 +106,100 @@ This project analyzes customer churn using the Telco Customer Churn dataset. The
 
 ## 📷 Dashboard Preview
 
+<img width="602" height="340" alt="Screenshot 2026-07-30 174916" src="https://github.com/user-attachments/assets/eff26681-03f8-4de3-a966-c3f4faa2b080" />
+
+
+---
+
+## 💡 Key Insights
+
+- Customers with Month-to-Month contracts have the highest churn.
+- Customers with shorter tenure are more likely to churn.
+- Customers using Online Security and Online Backup services tend to have better retention.
+- Overall churn rate is approximately **26.54%**.
+
+---
+
+## 📁 Repository Structure
+
+```text
+Customer-Churn-Analysis/
+│
+├── Dashboard/
+├── Dataset/
+├── Screenshots/
+└── README.md
+```
+
+---
+
+## 🚀 Future Improvements
+
+- Publish dashboard to Power BI Service
+- Add multiple report pages
+- Include advanced business KPIs
+- Integrate SQL-based data source
+
+---
+
+## 👩‍💻 Author
+
+**Sanskruti Dumbre**
+
+Computer Engineering Student | Full Stack Developer | Data Analyst
+# 📊 Customer Churn Analysis Dashboard
+
+An interactive Power BI dashboard built using the Telco Customer Churn dataset to analyze customer behavior, identify churn patterns, and provide actionable business insights.
+
+---
+
+## 📌 Project Overview
+
+This project analyzes customer churn using the Telco Customer Churn dataset. The dashboard helps identify key factors influencing customer retention by visualizing customer demographics, contract types, tenure, monthly charges, and service usage.
+
+---
+
+## 🎯 Objectives
+
+- Analyze customer churn trends
+- Measure overall churn rate
+- Identify high-risk customer segments
+- Compare retained and churned customers
+- Support data-driven customer retention strategies
+
+---
+
+## 🛠️ Tech Stack
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+
+---
+
+## 📂 Dataset
+
+- Telco Customer Churn Dataset (Uncleaned)
+
+---
+
+## 📊 Dashboard Features
+
+- Total Customers KPI
+- Churn Rate KPI
+- Churned Customers KPI
+- Customer Retention Overview
+- Churn by Contract Type
+- Churn Rate by Tenure Band
+- Monthly Charges Analysis
+- Online Security & Backup Analysis
+- Risk Type Distribution
+
+---
+
+## 📷 Dashboard Preview
+
 > Add your dashboard screenshot here.
 
 Example:
