@@ -1,35 +1,191 @@
-# 📊 Customer-Churn-Analysis
+# 📊 Customer Churn Analysis Dashboard
 
-An interactive Power BI dashboard built using the Telco Customer Churn dataset to analyze customer churn patterns, customer retention, and business insights through Power Query, DAX, and interactive visualizations.
+An interactive Power BI dashboard built using the Telco Customer Churn dataset to analyze customer behavior, identify churn patterns, and provide actionable business insights.
 
-## 🚀 Tech Stack
+---
+
+## 📌 Project Overview
+
+This project analyzes customer churn using the Telco Customer Churn dataset. The dashboard helps identify key factors influencing customer retention by visualizing customer demographics, contract types, tenure, monthly charges, and service usage.
+
+---
+
+## 🎯 Objectives
+
+- Analyze customer churn trends
+- Measure overall churn rate
+- Identify high-risk customer segments
+- Compare retained and churned customers
+- Support data-driven customer retention strategies
+
+---
+
+## 🛠️ Tech Stack
 
 - Microsoft Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 
-## 📌 Features
-
-- Customer churn analysis dashboard
-- KPI cards (Total Customers, Churn Rate, Churned Customers)
-- Churn analysis by contract type
-- Customer retention overview
-- Tenure-based churn analysis
-- Monthly charges analysis
-- Interactive filters and visuals
-
-## 📷 Dashboard Preview
-
-<img width="602" height="340" alt="Screenshot 2026-07-30 174916" src="https://github.com/user-attachments/assets/9bbefef9-0361-4428-953d-c16da225cdc3" />
-
+---
 
 ## 📂 Dataset
 
-Telco Customer Churn Dataset
-[telco_churn_unclean.csv](https://github.com/user-attachments/files/30545779/telco_churn_unclean.csv)
+- Telco Customer Churn Dataset (Uncleaned)
+- [telco_churn_unclean.csv](https://github.com/user-attachments/files/30546411/telco_churn_unclean.csv)
 
+
+
+---
+
+## 📊 Dashboard Features
+
+- Total Customers KPI
+- Churn Rate KPI
+- Churned Customers KPI
+- Customer Retention Overview
+- Churn by Contract Type
+- Churn Rate by Tenure Band
+- Monthly Charges Analysis
+- Online Security & Backup Analysis
+- Risk Type Distribution
+
+---
+
+## 📷 Dashboard Preview
+# 📊 Customer Churn Analysis Dashboard
+
+An interactive Power BI dashboard built using the Telco Customer Churn dataset to analyze customer behavior, identify churn patterns, and provide actionable business insights.
+
+---
+
+## 📌 Project Overview
+
+This project analyzes customer churn using the Telco Customer Churn dataset. The dashboard helps identify key factors influencing customer retention by visualizing customer demographics, contract types, tenure, monthly charges, and service usage.
+
+---
+
+## 🎯 Objectives
+
+- Analyze customer churn trends
+- Measure overall churn rate
+- Identify high-risk customer segments
+- Compare retained and churned customers
+- Support data-driven customer retention strategies
+
+---
+
+## 🛠️ Tech Stack
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+
+---
+
+## 📂 Dataset
+
+- Telco Customer Churn Dataset (Uncleaned)
+
+---
+
+## 📊 Dashboard Features
+
+- Total Customers KPI
+- Churn Rate KPI
+- Churned Customers KPI
+- Customer Retention Overview
+- Churn by Contract Type
+- Churn Rate by Tenure Band
+- Monthly Charges Analysis
+- Online Security & Backup Analysis
+- Risk Type Distribution
+
+---
+
+## 📷 Dashboard Preview
+
+> Add your dashboard screenshot here.
+
+Example:
+
+![Dashboard](Screenshots/Dashboard.png)
+
+---
+
+## 💡 Key Insights
+
+- Customers with Month-to-Month contracts have the highest churn.
+- Customers with shorter tenure are more likely to churn.
+- Customers using Online Security and Online Backup services tend to have better retention.
+- Overall churn rate is approximately **26.54%**.
+
+---
+
+## 📁 Repository Structure
+
+```text
+Customer-Churn-Analysis/
+│
+├── Dashboard/
+├── Dataset/
+├── Screenshots/
+└── README.md
+```
+
+---
+
+## 🚀 Future Improvements
+
+- Publish dashboard to Power BI Service
+- Add multiple report pages
+- Include advanced business KPIs
+- Integrate SQL-based data source
+
+---
 
 ## 👩‍💻 Author
 
 **Sanskruti Dumbre**
+
+Computer Engineering Student | Full Stack Developer | Data Analyst
+
+---
+
+## 💡 Key Insights
+
+- Customers with Month-to-Month contracts have the highest churn.
+- Customers with shorter tenure are more likely to churn.
+- Customers using Online Security and Online Backup services tend to have better retention.
+- Overall churn rate is approximately **26.54%**.
+
+---
+
+## 📁 Repository Structure
+
+```text
+Customer-Churn-Analysis/
+│
+├── Dashboard/
+├── Dataset/
+├── Screenshots/
+└── README.md
+```
+
+---
+
+## 🚀 Future Improvements
+
+- Publish dashboard to Power BI Service
+- Add multiple report pages
+- Include advanced business KPIs
+- Integrate SQL-based data source
+
+---
+
+## 👩‍💻 Author
+
+**Sanskruti Dumbre**
+
+Computer Engineering Student | Full Stack Developer | Data Analyst
