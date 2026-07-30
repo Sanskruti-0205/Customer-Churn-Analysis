@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis
+# 📊 Customer-Churn-Analysis
 
 An interactive Power BI dashboard built using the Telco Customer Churn dataset to analyze customer churn patterns, customer retention, and business insights through Power Query, DAX, and interactive visualizations.
 
