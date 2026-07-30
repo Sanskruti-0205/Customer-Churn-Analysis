@@ -51,7 +51,7 @@ This project analyzes customer churn using the Telco Customer Churn dataset. The
 ---
 
 ## 📷 Dashboard Preview
-[telco_churn_unclean.csv](https://github.com/user-attachments/files/30546547/telco_churn_unclean.csv)
+(https://github.com/user-attachments/files/30546547/telco_churn_unclean.csv)
 <img width="602" height="340" alt="Screenshot 2026-07-30 174916" src="https://github.com/user-attachments/assets/bf78b71c-585d-4a18-a423-005ea8b41bc3" />
 
 
